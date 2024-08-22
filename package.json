@@ -1,0 +1,12 @@
+{
+  "name": "lunchboxx-web-app",
+  "version": "1.0.0",
+  "description": "This is a directory containing the alx final portfolio project, a backup incase the team doesnt finish on time. Im working with Chappa, Didi and Emmanuel on this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
